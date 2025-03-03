@@ -1,4 +1,4 @@
-public static void main(String[] args) {
+public class Main {public static void main(String[] args) {
 // TIPOS DE DATOS
 int numero = 10;
 double precio = 99.99;
